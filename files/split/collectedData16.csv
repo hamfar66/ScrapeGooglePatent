@@ -1,0 +1,17 @@
+,title,abstract,Inventors,DownloadLink
+0,"
+  Multiview light sheet microscopy
+ 
+      ",empty,"[[['ヨハンネス ケラー，フィリップ', 'ヨハンネス ケラー，フィリップ', 'クマー チェトリ，ラギヴ', 'クマー チェトリ，ラギヴ']]]",https://patentimages.storage.googleapis.com/a4/45/e7/6f66c06236d8e5/JP6625696B2.pdf
+1,"Piezoelectric array elements for sound reconstruction with a digital input 
+        ","Various examples are provided for digital sound reconstruction using piezoelectric array elements. In one example, a digital loudspeaker includes a fixed frame and an array of transducers disposed on the fixed frame. Individual transducers of the array of transducers can include a flexible membrane disposed on a piezoelectric actuation element positioned over a corresponding opening that extends through the fixed frame. In another example, a method includes forming a flexible membrane structure on a substrate and backetching the substrate opposite the flexible membrane structure. The flexible membrane structure can be formed by disposing a first electrode layer on a substrate, disposing a piezoelectric layer on the first electrode layer and disposing a second electrode layer on the piezoelectric layer. A flexible membrane layer (e.g., polyimide) can be disposed on the second electrode layer. 
+   
+   ","[[['Armando Arpys AREVALO CARRENO', 'David CONCHOUSO GONZALEZ', 'David CASTRO SIGNORET', 'Ian G. Foulds']]]",https://patentimages.storage.googleapis.com/c7/0f/a5/fc5d40805c590e/US10575075.pdf
+2,"Method and system for quantum key distribution based on trusted computing 
+        ","One embodiment described herein provides a system and method for negotiating quantum data keys between first and second entities. During operation, the system performs a mutual authentication between the first and second entities. In response to the mutual authentication succeeding, the first entity receives one or more sets of key-generation parameters from the second entity. In response to validating the sets of key-generation parameters, the first entity sends an acknowledgment message to the second entity, and extracts, from a quantum string shared between the first and second entities, one or more quantum data keys based on the key-generation parameters. A respective quantum data key comprises a number of bits extracted from the quantum string. 
+   
+   ",[[['Yingfang Fu']]],https://patentimages.storage.googleapis.com/a1/43/4f/bf575d0828443d/US10103880.pdf
+3,"Method and system for secure data transmission 
+        ","One embodiment described herein provides a system and method for establishing a secure communication channel between a client and a server. During operation, the client generates a service request comprising a first dynamic message, transmits the first service request to the server, which authenticates the client based on the first dynamic message, and receives a second dynamic message from the server in response to the first dynamic message. The client authenticates the server based on the second dynamic message, and negotiates, via a quantum-key-distribution process, a secret key shared between the client and the server. The client and server then establish a secure communication channel based on at least a first portion of the secret key. 
+   
+   ","[[['Yingfang Fu', 'Shuanlin LIU']]]",https://patentimages.storage.googleapis.com/ee/7a/d2/2d33a2674a0a68/US10439806.pdf

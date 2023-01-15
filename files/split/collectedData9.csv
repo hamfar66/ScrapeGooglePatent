@@ -1,0 +1,50 @@
+,title,abstract,Inventors,DownloadLink
+0,"Compositions, systems, and methods for generating inner ear hair cells for treatment of hearing loss 
+        ","Method and compositions for inducing the self-renewal of stem/progenitor supporting cells comprised by a cochlear cell population, including inducing the stem/progenitor cells to proliferate while maintaining, in the daughter cells, the capacity to differentiate into hair cells. 
+   
+   ","[[['Jeffrey M. Karp', 'Robert S. Langer', 'Xiaolei Yin', 'Nitin Joshi']]]",https://patentimages.storage.googleapis.com/80/e4/10/e6543db8bf5e43/US11369607.pdf
+1,"Promoting competitive balance in multiplayer gaming 
+        ","By one or more processors of a computing device, receive a player game election of a player, the player game election comprising a skill based video game and one or more player characteristics of the player, determine a first player eligibility of the player to participate in the skill based video game comprising verify the one or more player characteristics, send the first player eligibility to an operator of the skill based video game, receive a list of one or more players that fulfilled a win condition for the skill based video game, determine a second player eligibility to receive a payout based on the list of one or more players that fulfilled the win condition, the first player eligibility, and a player preference for a payout type, and distribute the payout to the one or more players that fulfill the win condition. 
+   
+   ","[[['Matthew D. Pierce', 'Brian V. Hughes', 'Brandii Rhiannhon Sotelo Grace', 'Scott Sebelius']]]",https://patentimages.storage.googleapis.com/86/cc/f7/746309c8143b97/US11482081.pdf
+2,"A method incorporating computer­implemented steps, for providing alignment information data for the alignment of an orthopaedic implant for a joint of a patient 
+        ","A METHOD INCORPORATING COMPUTER-IMPLEMENTED STEPS, FOR 
+PROVIDING ALIGNMENT INFORMATION DATA FOR THE ALIGNMENT OF AN 
+ORTHOPAEDIC IMPLANT FOR A JOINT OF A PATIENT 
+5 ABSTRACT 
+The present disclosure relates to a method incorporating computer-implemented 
+steps, a computing device, and a computer readable storage medium, for providing 
+alignment information data for the alignment of an orthopaedic implant for a joint of a 
+patient. The method comprises the computer-implemented steps of being responsive 
+0 to patient specific information data for deriving patient data, where the patient 
+specific information data is indicative of one or more dynamic characteristics, and 
+being responsive to the patient data for providing the alignment information data for 
+the alignment of the orthopaedic implant.
+100 
+1020 
+DISPLAY 
+DEVICE 
+110 
+1000 
+1010 10 
+AVINTERFACE PROCESSOR 
+1030 170 
+STORAGE I/O NETWORK 
+DEVICE INTERFACE INTERFACE 
+-1UI180 
+1 15I140 NETWOR 
+190 
+160 
+HID 4
+130 
+STORAGE MEDIUM 
+READER 
+120 
+STORAGE MEDIUM 
+FIGURE 1
+ 
+   
+   ","[[['Milton Scott Bergeon', 'Brian Cheung', 'Brett FRITSCH', 'Ed MAREL', 'Brad Peter MILES', ""Peter Bede O'CONNOR"", 'James William PIERREPONT', 'Justin ROE', 'Michael Solomon', 'Len WALTER']]]",https://patentimages.storage.googleapis.com/5d/18/5b/7238a65c34a6c5/AU2019271988B2.pdf
+3,Torque,"A robotic surgical system configured for the articulation of a catheter comprises an input device, a control computer, and an instrument driver having at least one motor for displacing the pull-wire of a steerable catheter wherein the control computer is configured to determine the desired motor torque or tension of the pull-wire of a catheter based on user manipulation of the input device. The control computer is configured to output the desired motor torque or tension of the pull-wire to the instrument driver, whereby at least one motor of the instrument driver implements the desired motor torque to cause the desired pull-wire tension to articulate the distal tip of the catheter. 
+   
+   ","[[['J. Scot Hart', 'Francis MACNAMARA']]]",https://patentimages.storage.googleapis.com/25/9c/c0/b2cffd4cdc93b6/US11452844.pdf

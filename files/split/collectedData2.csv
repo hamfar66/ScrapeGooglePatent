@@ -1,0 +1,29 @@
+,title,abstract,Inventors,DownloadLink
+0,"Touch sensing with mobile sensors 
+        ","Apparatus and methods are disclosed for simultaneously tracking multiple finger and palm contacts as hands approach, touch, and slide across a proximity-sensing, multi-touch surface. Identification and classification of intuitive hand configurations and motions enables unprecedented integration of typing, resting, pointing, scrolling, 3D manipulation, and handwriting into a versatile, ergonomic computer input device. 
+   
+   ","[[['Wayne Carl Westerman', 'John Greer Elias']]]",https://patentimages.storage.googleapis.com/37/1d/c0/d7b2ac8f0b7508/US9552100.pdf
+1,Systems and methods for photo,"Hearing systems for both hearing impaired and normal hearing subjects comprise an input transducer and a separate output transducer. The input transducer will include a light source for generating a light signal in response to either ambient sound or an external electronic sound signal. The output transducer will comprise a light-responsive transducer component which is adapted to receive light from the input transducer. The output transducer component will vibrate in response to the light input and produce vibrations in a component of a subject's hearing transduction pathway, such as the tympanic membrane, a bone in the ossicular chain, or directly on the cochlea, in order to produce neural signals representative of the original sound. 
+   
+   ","[[['Rodney C. Perkins', 'Vincent Pluvinage']]]",https://patentimages.storage.googleapis.com/82/93/88/2bc712419ee72c/US20220007114A1.pdf
+2,"Method and system for modeling mechanical features of a structural dynamics system 
+        ","Embodiments provide methods and systems for modeling mechanical features of a structural dynamics system. A method according to an embodiment provides a finite element model representing a structural dynamics system in a computer memory. Next, a system of equations having a first term representing a linear combination of mass, stiffness, and damping of the finite element model and a second term representing modal damping is solved in a processor coupled to a computer memory. According to such an embodiment, the system of equations is solved using the Sherman-Morrison-Woodbury equation or preprocessing iteration. An improved 3D model of the real-world object based on the finite-element model is then formed by modeling the mechanical features of the represented structural dynamical system with the solution by means of the finite-element model and the system of equations for modal damping. 
+     
+   ","[[['P·A·布齐诺夫', 'M·贝伊']]]",https://patentimages.storage.googleapis.com/ff/ea/18/2831f05d150b3d/CN107016154B.pdf
+3,"
+  Inversion mechanical thrombectomy appliance
+ 
+      ","A mechanical thrombectomy system for removing a clot from a vessel, the apparatus comprising: a flexible catheter (100, 205, 405, 505, 605, 805, 905) having a distal end (103) and a distal end opening ( 105, 218); wherein the thrombectomy apparatus further comprises a tractor (144, 209, 403, 503, 603) comprising a flexible strap (803, 803 ', 903, 903') extending within the catheter (100, 205, 405 , 505, 605, 805, 905), inverts over the distal end opening (105, 218) of the catheter (100, 205, 405, 505, 605, 805, 905) and extends along the outer diameter of the catheter (100, 205, 405, 505, 605, 805, 905); an electric actuator (811) at a proximal end of the flexible catheter (100, 205, 405, 505, 605, 805, 905), configured to actuate the tractor (144, 209, 403, 503, 603) around the catheter (100 , 205, 405, 505, 605, 805, 905) to invert over the distal end opening (105, 218) of the catheter (100, 205, 405, 505, 605, 805, 905); and a guidewire lumen through the catheter (100, 205, 405, 505, 605, 805, 905) and the tractor (144, 209, 403, 503, 603), configured to pass a guidewire (355, 515 ).
+   
+ 
+   ","[[['e Greenhalgh', 'Michael Wallace']]]",https://patentimages.storage.googleapis.com/0a/eb/f0/dcfd685a3aff82/ES2809160T3.pdf
+4,"
+  Foldable display design with generalized layer mechanical compatibility
+ 
+        ","A flexible OLED display device comprising an upper module having a cover window film, a lower module, and a display module between the upper module and the lower module. The display module includes an OLED and an OLED substrate. The stiffness of the components in the display device is controlled to satisfy a certain relationship such that the bending stiffness of the upper and lower modules is adjusted to position the neutral bending surface under the display module, which puts the display in a compressive deformation state as opposed to zero deformation. placed as This design is suitable for bifold flexible displays in which the upper module can be folded towards itself.
+   
+   
+       
+   
+ 
+   ","[[['에반 엘 브리드러브', '캐서린 에이 레더데일', '류드밀라 에이 페쿠로브스키', '페이후이 장']]]",https://patentimages.storage.googleapis.com/03/f1/a0/61b66bc63b1723/KR102378856B1.pdf
